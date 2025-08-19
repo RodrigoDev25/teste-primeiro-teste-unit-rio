@@ -1,0 +1,23 @@
+{
+  "name": "teste-primeiro-teste-unitario",
+  "version": "1.0.0",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoDev25/teste-primeiro-teste-unit-rio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoDev25/teste-primeiro-teste-unit-rio/issues"
+  },
+  "homepage": "https://github.com/RodrigoDev25/teste-primeiro-teste-unit-rio#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
+}
